@@ -1,0 +1,25 @@
+Exit Test: Ticket Management System. - Total Score: 100 Points
+
+[DONE]1. Create a Spring boot application with Gradle - 10 point
+
+[DONE]2. Create a GET Rest Endpoint to get all the Tickets - 5 point
+
+[DONE]3. Create a GET Rest Endpoint to get a Specific Ticket with ID-5 point
+
+[DONE]4. Create a Post Rest Endpoint to add a new Ticket - 5 point
+
+[DONE]5. Create a Put Rest Endpoint to update the Specific Ticket - 5 points
+
+[DONE]6. Create a Custom DataSource and JDBCTemplate Bean - 5 points
+
+[Done]7. Create a Logging Aspect to log before and after any method execution - 5 points
+
+[Done]8. Implement Custom Spring Security - 20 points
+
+[Done]9. Write Junit Test cases for all Service methods. - 20 points
+
+[Done]10. Write Spring JDBC integration to archive tikets older than 1 day - 10 points
+
+[DONE]11. Write Exception Handler Class using ControllerAdvice - 10 points
+
+FYI: (jpa method.jpql, criteria builder or jdbc template to query database
