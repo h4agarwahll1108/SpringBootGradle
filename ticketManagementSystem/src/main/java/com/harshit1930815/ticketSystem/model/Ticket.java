@@ -30,7 +30,7 @@ public class Ticket {
     private LocalDateTime expiry;
 
 
-    public Ticket(long id, String title, String description, LocalDateTime createdDate, LocalDateTime expiry) {
+    public Ticket(Long id, String title, String description, LocalDateTime createdDate, LocalDateTime expiry) {
         this.id = id;
         this.title = title;
         this.description = description;
